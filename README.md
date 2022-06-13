@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NourDjebbes
 - 👀 I’m interested in Coding and Graphic designing
-- 🌱 I’m currently learning gdscript
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
